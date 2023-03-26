@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-register{
+    width: 250px;
+    background: #24303c;
+    padding: 30px;
+    margin: -200px 570px;
+    border-radius: 4px;
+    font-family:sans-serif;
+    color: white;
+    display: inline-block;
+}
+
+.form-register .tittle{
+    font-size: 16px;
+    margin-bottom: 20px;
+    float: right;
+    padding: 50px;
+}
+
+.controls {
+    width: 100%;
+    background: #24303c;
+    padding: 8px;
+    border-radius: 4px;
+    margin-bottom: 2px;
+    border: 1px solid #1f53c5;
+font-family: sans-serif;
+font-size: 15px;
+}
+
+
+.cuenta{
+    height: 20px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 40px;
+}
+
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+.form-register .botons{
+    width: 80%;
+    background: #1f53c5;
+    border: none;
+    padding: 2px;
+    color: white;
+    margin: 5px 0;
+    font-size: 8px;
+
+}
